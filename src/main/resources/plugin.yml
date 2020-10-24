@@ -1,0 +1,8 @@
+name: NoEnderDragonGrief
+version: ${project.version}
+main: net.beocraft.plugins.noenderdragongrief.NoEnderDragonGrief
+api-version: 1.16
+prefix: NoEnderDragonGrief
+authors: [ Pequla ]
+description: Disables Ender Dragon grief
+website: https://beocraft.net/plugins
